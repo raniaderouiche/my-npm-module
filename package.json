@@ -1,0 +1,22 @@
+{
+  "name": "rdmodule",
+  "version": "1.0.0",
+  "description": "creation and publish of my first module on npm",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raniaderouiche/my-npm-module.git"
+  },
+  "keywords": [
+    "tay"
+  ],
+  "author": "rania derouiche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raniaderouiche/my-npm-module/issues"
+  },
+  "homepage": "https://github.com/raniaderouiche/my-npm-module#readme"
+}
